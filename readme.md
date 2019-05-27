@@ -1,5 +1,10 @@
-### coming soon!
-![](https://github.com/idiot-io/8Bit-Mixtape-NEO/blob/master/boards/8Bit-Mini-Mixtape/braclet.svg)
+### see release
+
+![image](https://user-images.githubusercontent.com/222526/58432283-9a556380-807f-11e9-8c75-689fd3069154.png)
+
+there are previous versions in the release folder, for the hand etched v1.4b and the mini 8BitMiniMixtape-TLV
+
+![20190527_131522](https://user-images.githubusercontent.com/222526/58432263-80b41c00-807f-11e9-8619-d49b68392d39.jpg)
 
 an earlier, hand-etched prototpye  
 [![Watch the video](https://i.imgur.com/pc0LF0S.png)](https://idiot.io/wp-content/uploads/8BitMiniMixtape/8BitMiniMixtapeBraclet.mp4)
@@ -38,6 +43,11 @@ video soon...
 
 ##### Etching Using Ferric chloride
 ferric 1:1 water  
+
+
+this is a post mortem release.
+included is a photo of the color chart from PCBway fab and color matched in SVG
+
 
 (we Should Ditch the ferric and switch to NaPS approx 200-300g per liter water at 50C)
 
