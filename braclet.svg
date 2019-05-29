@@ -15,9 +15,9 @@
    viewBox="0 0 260.0 40.0"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="braclet.svg"
-   inkscape:export-filename="C:\DEV\GitHub\8Bit-Mixtape-NEO\boards\8Bit-Mini-Mixtape\Braclet1.52.png"
+   inkscape:export-filename="C:\DEV\GitHub\braclet\Braclet1.52.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    enable-background="new">
@@ -28,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2150481"
-     inkscape:cx="375.7053"
-     inkscape:cy="338.95462"
+     inkscape:zoom="8.2214401"
+     inkscape:cx="629.22353"
+     inkscape:cy="39.509056"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g4502"
      showgrid="false"
-     inkscape:window-width="1362"
-     inkscape:window-height="717"
-     inkscape:window-x="0"
-     inkscape:window-y="49"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      borderlayer="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -206,8 +206,7 @@
      id="g4502"
      inkscape:groupmode="layer"
      inkscape:label="F.Cu"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path11383"
@@ -1424,7 +1423,7 @@
        inkscape:export-xdpi="600.79999"
        sodipodi:nodetypes="cccccccc"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#bc602a;stroke-width:0.79375005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 167.66315,31.041817 0.93428,0.0065 c 2.52827,0 2.28872,-2.287481 2.28872,-2.287481 l 0.0273,-7.168112 c 0,-1.481633 1.55053,-1.584847 1.55053,-1.584847 l 14.20409,0.0025 c 0,0 0.53067,0.119602 0.53067,0.626654 l 0.001,1.684988"
+       d="m 165.54648,30.814255 3.05095,0.0065 c 2.52827,0 2.28872,-2.059919 2.28872,-2.059919 l 0.0273,-7.168112 c 0,-1.481633 1.55053,-1.584847 1.55053,-1.584847 l 14.20409,0.0025 c 0,0 0.53067,0.119602 0.53067,0.626654 l 0.001,1.684988"
        id="path16649"
        inkscape:connector-curvature="0" />
     <path
@@ -4315,7 +4314,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="PARTS-disabled"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        style="display:inline;opacity:1;enable-background:new"
@@ -4341,7 +4340,7 @@
            id="g6468">
           <polygon
              stroke-miterlimit="10"
-             points="476.8,364.2 474,367 474,371.3 476.1,373.4 495.1,373.4 495.1,364.2 "
+             points="474,371.3 476.1,373.4 495.1,373.4 495.1,364.2 476.8,364.2 474,367 "
              id="polygon6470"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              transform="matrix(1.0012059,1.3134439e-5,1.3134439e-5,0.90288066,3.5425027,28.704049)" />
@@ -4349,11 +4348,11 @@
              transform="matrix(-1.0012059,-2.5435091e-4,-2.543509e-4,0.90288062,1033.043,28.841573)"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              id="polygon6661"
-             points="495.1,364.2 476.8,364.2 474,367 474,371.3 476.1,373.4 495.1,373.4 "
+             points="474,367 474,371.3 476.1,373.4 495.1,373.4 495.1,364.2 476.8,364.2 "
              stroke-miterlimit="10" />
           <polygon
              stroke-miterlimit="10"
-             points="474,393 474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 476.8,390.2 "
+             points="476.1,399.4 495.1,399.4 495.1,390.2 476.8,390.2 474,393 474,397.3 "
              id="polygon6472"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              transform="matrix(1.0012059,1.3134439e-5,1.3134439e-5,0.90288066,4.5414193,47.833319)" />
@@ -4361,7 +4360,7 @@
              transform="matrix(-1.0012059,-2.5435091e-4,-2.543509e-4,0.90288062,1032.039,47.970575)"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              id="polygon6663"
-             points="476.8,390.2 474,393 474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 "
+             points="474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 476.8,390.2 474,393 "
              stroke-miterlimit="10" />
           <g
              transform="matrix(1.0815249,0,0,1.0815249,-42.282868,-31.268861)"
@@ -4417,23 +4416,23 @@
              transform="matrix(1.0012059,1.3134439e-5,1.3134439e-5,0.90288066,3.5425027,28.704049)"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              id="polygon10702"
-             points="476.1,373.4 495.1,373.4 495.1,364.2 476.8,364.2 474,367 474,371.3 "
+             points="495.1,364.2 476.8,364.2 474,367 474,371.3 476.1,373.4 495.1,373.4 "
              stroke-miterlimit="10" />
           <polygon
              transform="matrix(1.0012059,1.3134439e-5,1.3134439e-5,0.90288066,4.5414193,47.833319)"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              id="polygon10704"
-             points="495.1,399.4 495.1,390.2 476.8,390.2 474,393 474,397.3 476.1,399.4 "
+             points="476.8,390.2 474,393 474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 "
              stroke-miterlimit="10" />
           <polygon
              stroke-miterlimit="10"
-             points="495.1,364.2 476.8,364.2 474,367 474,371.3 476.1,373.4 495.1,373.4 "
+             points="474,367 474,371.3 476.1,373.4 495.1,373.4 495.1,364.2 476.8,364.2 "
              id="polygon6657"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              transform="matrix(-1.0012059,-2.5435091e-4,-2.543509e-4,0.90288062,1033.3454,28.841614)" />
           <polygon
              stroke-miterlimit="10"
-             points="476.8,390.2 474,393 474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 "
+             points="474,397.3 476.1,399.4 495.1,399.4 495.1,390.2 476.8,390.2 474,393 "
              id="polygon6659"
              style="fill:#a7a9ac;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
              transform="matrix(-1.0012059,-2.5435091e-4,-2.543509e-4,0.90288062,1032.3414,47.970616)" />
@@ -4794,22 +4793,22 @@
              style="fill:#303030;stroke:none;stroke-width:0" />
           <polygon
              id="polygon28928"
-             points="0,116.266 191.984,116.266 181.984,126.266 10,126.266 "
+             points="181.984,126.266 10,126.266 0,116.266 191.984,116.266 "
              style="fill:#1f1f1f"
              transform="matrix(1,0,0,1.5275382,0,-100.3644)" />
           <polygon
              id="polygon28930"
-             points="0,264.234 191.984,264.234 181.984,254.234 10,254.234 "
+             points="181.984,254.234 10,254.234 0,264.234 191.984,264.234 "
              style="fill:#1f1f1f"
              transform="matrix(1,0,0,1.5275382,0,-100.3644)" />
           <polygon
              id="polygon28932"
-             points="0,116.266 0,264.234 10,254.234 10,126.266 "
+             points="10,254.234 10,126.266 0,116.266 0,264.234 "
              style="fill:#000000"
              transform="matrix(1,0,0,1.5275382,0,-100.3644)" />
           <polygon
              id="polygon28934"
-             points="191.984,116.266 191.984,264.234 181.984,254.234 181.984,126.266 "
+             points="181.984,254.234 181.984,126.266 191.984,116.266 191.984,264.234 "
              style="fill:#3d3d3d"
              transform="matrix(1,0,0,1.5275382,0,-100.3644)" />
           <ellipse
@@ -5913,22 +5912,22 @@
           <polygon
              transform="matrix(1,0,0,1.5275382,0,-100.3644)"
              style="fill:#1f1f1f;stroke-width:1.13775289"
-             points="191.984,116.266 181.984,126.266 10,126.266 0,116.266 "
+             points="10,126.266 0,116.266 191.984,116.266 181.984,126.266 "
              id="polygon12061" />
           <polygon
              transform="matrix(1,0,0,1.5275382,0,-100.3644)"
              style="fill:#1f1f1f;stroke-width:1.13775289"
-             points="191.984,264.234 181.984,254.234 10,254.234 0,264.234 "
+             points="10,254.234 0,264.234 191.984,264.234 181.984,254.234 "
              id="polygon12063" />
           <polygon
              transform="matrix(1,0,0,1.5275382,0,-100.3644)"
              style="fill:#000000;stroke-width:1.13775289"
-             points="0,264.234 10,254.234 10,126.266 0,116.266 "
+             points="10,126.266 0,116.266 0,264.234 10,254.234 "
              id="polygon12065" />
           <polygon
              transform="matrix(1,0,0,1.5275382,0,-100.3644)"
              style="fill:#3d3d3d;stroke-width:1.13775289"
-             points="191.984,264.234 181.984,254.234 181.984,126.266 191.984,116.266 "
+             points="181.984,126.266 191.984,116.266 191.984,264.234 181.984,254.234 "
              id="polygon12067" />
           <ellipse
              ry="15.275381"
@@ -13078,7 +13077,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="info"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        y="43.053646"
@@ -13110,15 +13109,15 @@
        width="247.64999" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333333px;line-height:1.25;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="37.018425"
        y="-88.911224"
        id="text8891"><tspan
          sodipodi:role="line"
          id="tspan8889"
          x="37.018425"
-         y="-87.323723"
-         style="stroke-width:0.26458332;font-size:4.23333333px;" /></text>
+         y="-84.148727"
+         style="font-size:4.23333311px;stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'8BIT WONDER';-inkscape-font-specification:'8BIT WONDER';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
